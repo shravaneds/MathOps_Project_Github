@@ -24,4 +24,8 @@ public class MathOps {
         }
         return true;
     }
+    
+    public boolean val() {
+    	
+    }
 }
