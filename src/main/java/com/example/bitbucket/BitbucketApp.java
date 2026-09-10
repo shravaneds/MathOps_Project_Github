@@ -13,5 +13,8 @@ public class BitbucketApp {
 
     public String getMessage() {
         return "Hello from the Bitbucket test project!";
+
+    
+    Hello ;
     }
 }
